@@ -1,0 +1,5 @@
+# uwiera, dev version
+
+A build of uwiera for trying new flows before they reach the test link (uwiera-test), served by GitHub Pages. It talks to no server and sends nothing; what you enter stays on your device.
+
+This repository holds only the built site, not the source.
